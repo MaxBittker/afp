@@ -8,7 +8,23 @@ What's going on in there?
 
 # Timeline for your talk
 
-In the first minute, I will introduce myself and
+1minute:
+In the first minute, I will introduce myself and make a funny deadpan joke.
+
+1 minute:
+Then, I will talk about some machines that humans relate to through their sounds, like cars or type writers.
+
+2 minute:
+I'll then talk a little bit about old computers and the noises they made. Once upon a time, you could debug your mainframe by ear!
+I'll walk briefly through 70 years of computer machinery becoming more solid-state, and how their noises have disappeared one by one (transistors, hard drives, even fans!).
+
+I'll introduce strace with a metaphor about how it lets you measure and filter system call events in real time.
+
+I'll show the signals going by, and then route them to a sound engine.
+
+I want to make a larger point here, about the human brain and the range of human senses, and that computer interfaces that engage all of our senses are more comfortable and fit into our lives in more holistic ways.
+
+Finally, I'll run some common programs that make a lot of system calls, and make a little racket.
 
 Car Talk, Looms, fan noises, ENIAC, AM radio
 
