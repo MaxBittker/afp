@@ -2,9 +2,20 @@
 
 Listening to the Computer: Let's Sonify System Calls!
 
+What does an Operating System _Sound_ Like??!
+
 # Abstract for your talk
 
-What's going on in there?
+Computers are too quiet, you can't tell what they're thinking!!
+Lets take a digital stethoscope to the internal workings of the machine, and listen to what we can hear there.
+
+I want to talk to you about what computers used to sound like, and show you how we can still listen in to our operating systems by making system calls audible.
+
+///
+Car Talk, Looms, fan noises, ENIAC, AM radio
+computer history museum
+oscilliscope
+contact mics
 
 # Timeline for your talk
 
@@ -25,8 +36,7 @@ I'll show the signals going by, and then route them to a sound engine.
 I want to make a larger point here, about the human brain and the range of human senses, and that computer interfaces that engage all of our senses are more comfortable and fit into our lives in more holistic ways.
 
 Finally, I'll run some common programs that make a lot of system calls, and make a little racket.
-
-Car Talk, Looms, fan noises, ENIAC, AM radio
+(don't worry, I'll practice this demo and have a backup plan!)
 
 At the end of the talk, I want to take two minutes to point out the value of useless ideas like this, that give
 
@@ -41,3 +51,5 @@ The first is an understanding of what a syscall is, contextualized to everyday c
 The second idea is an appreciation for the computer as a physical machine that can be observed and understood on multiple levels.
 
 I think the "strange translation" of an invisible system into an audible one allows us to relate to computers in new and enriching ways.
+
+Cognition connected to perception, can't be seperated.
