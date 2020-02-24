@@ -1,25 +1,16 @@
 # Talk Title
 
-Listening to the Computer: Let's Sonify System Calls!
+What does my Operating System Sound Like? Let's Sonify System Calls!
 
-What does an Operating System _Sound_ Like??!
+What Sound Does An Operating System Make?!!
 
 # Abstract for your talk
 
-Computers these days are so quiet, you can't tell what they're thinking!
+Computers are quiet. So quiet, you can't tell what they're thinking!
 
-Lets take a digital stethoscope to the internal workings of the machine, and listen to what we can hear there.
+Lets construct a digital stethoscope, to amplify the inner workings of our computer and see what we can hear!
 
-I want to talk to you about what computers used to sound like, and show you how we can still listen in on our operating systems by making system calls audible.
-
-Let's talk about what your operating system looks like, and how they might sound.
-
-///
-Car Talk, Looms, fan noises, ENIAC, AM radio
-computer history museum
-oscilloscope
-contact mics
-sensory perception
+I want to talk to you about system calls, sonification, and how "strange translations" can enrich our understanding of the world.
 
 # Timeline for your talk
 
@@ -53,12 +44,19 @@ Humans have many senses and emotions that don't traditionally fit inside our mod
 
 # Intended Audience
 
-I have two main ideas I want to impart to the audience.
+I have two main ideas I want to cover with the audience.
 
-The first is an understanding of what a syscall is, contextualized to everyday computing tasks.
+The first is an understanding of what a syscall is, but contextualized to everyday computing tasks. I won't expect people to know about systems programming or operating system theory.
 
-The second idea is an appreciation for the computer as a physical machine that can be observed and understood on multiple levels.
+The second idea is an appreciation for the computer as a system that can be observed and understood from multiple perspectives. This should be interested to anyone interested in perception, cognition, and humans' relationships towards their tools and towards their senses!
 
 I think the "strange translation" of an invisible system into an audible one allows us to relate to computers in new and enriching ways.
 
-Cognition connected to perception, can't be seperated.
+Cognition connected to perception, can't be separated.
+
+///
+Car Talk, Looms, fan noises, ENIAC, AM radio
+computer history museum
+oscilloscope
+contact mics
+sensory perception
