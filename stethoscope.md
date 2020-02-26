@@ -14,9 +14,20 @@ I want to talk to you about system calls, sonification, and how "strange transla
 
 # Timeline for your talk
 
-1.
-In the first minute, I will introduce myself and make some sort of deadpan joke.
-1.
+1min Introduction:
+I will introduce myself, and direct attention to the laptop computer that I have with me on the podium.
+
+
+2 minutes:
+I want to start by showing the "classic" operating system diagram, showing user space, kernel, and drivers, and really briefly giving examples for this contextualized to the computer i'm using. 
+
+userspace: my slideshow
+kernel: linux, t
+drivers: the pieces of code listening talking to the HDMI port and to my keyboard 
+
+This is pretty normal operating systems class stuff! but then I want to ask some questions. Are these boxes in the diagram to scale? What do these different pieces look like? Are we allowed to ask these questions?
+
+
 Next, I will talk about machines that people relate to and understand through the sounds they make, like a car, or a typewriter.
 
 2 minutes:
