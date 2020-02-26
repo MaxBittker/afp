@@ -16,10 +16,10 @@ I want to talk to you about system calls, sonification, and how "strange transla
 
 1.
 In the first minute, I will introduce myself and make some sort of deadpan joke.
-2.
+1.
 Next, I will talk about machines that people relate to and understand through the sounds they make, like a car, or a typewriter.
 
-3 minutes:
+2 minutes:
 I'll then talk a little bit about old computers and the noises they made. Once upon a time, you could debug your mainframe by ear!
 I'll walk briefly through 70 years of computer machinery becoming more solid-state, and how their noises have disappeared one by one (transistors, hard drives, even fans!).
 
