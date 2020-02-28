@@ -6,7 +6,7 @@ What Sound Does An Operating System Make? Let's Sonify System Calls!
 
 Computers are too quiet, you can't tell what they're thinking!
 
-Lets construct a digital stethoscope to amplify the inner workings of our computer, and see what we can hear!
+Lets design a digital stethoscope that turns system calls into sounds, to amplify the inner workings of our computer and see what we can hear!
 
 I'll talk to you about system calls, sonification, and enriching our understanding of the world through our senses.
 
