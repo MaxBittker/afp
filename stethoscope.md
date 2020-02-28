@@ -1,62 +1,48 @@
 # Talk Title
 
-What does my Operating System Sound Like? Let's Sonify System Calls!
-
-What Sound Does An Operating System Make?!!
+What Sound Does An Operating System Make?! Let's Sonify System Calls!
 
 # Abstract for your talk
 
-Computers are quiet. So quiet, you can't tell what they're thinking!
+Computers are too quiet, you can't tell what they're thinking!
 
-Lets construct a digital stethoscope, to amplify the inner workings of our computer and see what we can hear!
+Lets construct a digital stethoscope, to amplify the inner workings of our computer and see what we can hear in there!
 
-I want to talk to you about system calls, sonification, and how "strange translations" can enrich our understanding of the world.
+I'll talk to you about system calls, "sonification", and enriching our understanding of the world through our senses.
 
 # Timeline for your talk
 
-1minute:
-In the first minute, I will introduce myself and make a funny deadpan joke.
+I want to open by talking about NPR show "Car Talk", where car problems are diagnosed over the phone via people making silly sounds with their mouth.
 
-1 minute:
-Then, I will talk about some machines that humans relate to through their sounds, like cars or type writers.
+I'll connect this to old computers and the noises they made. Once, it was normal to debug your mainframe by ear!
 
-2 minutes:
-I'll then talk a little bit about old computers and the noises they made. Once upon a time, you could debug your mainframe by ear!
-I'll walk briefly through 70 years of computer machinery becoming more solid-state, and how their noises have disappeared one by one (transistors, hard drives, even fans!).
+I will pose some questions about the multi-sensory relationships humans have with machines and with the world.
 
-2 minutes:
-Next, I'll talk about the rough structure of an operating system:
-The kernel, the "application space", and the system call layer between them.
+"How can we listen to our computers today, and what do they sound like?"
 
-I'll introduce `strace` and show how it can observe and filter system call events in real time. I'll show the signals going by as text.
+To answer this question, I'll introduce a rough model of the structure of an operating system, and identify system calls as a "moving part" of that machinery that we should listen to!
 
-2 minutes:
-I'll talk about how I thought about what these should sound like, and make connections to other complex machinery.
+I'll show the tool `strace` and how it can print system call events in real time. I'll demonstrate that those events react to normal computer tasks like copying a jpg.
 
-I want to make a larger point here, about the human brain and the range of human senses, and that computer interfaces that engage all of our senses are more comfortable and fit into our lives in more holistic ways.
+Now that we have this raw stream of information, what should it actually sound like? Beeps? Saxophone solos? A screeching dial-up modem?
 
-I'll run some common programs that make a lot of system calls, and make a little racket.
-(don't worry, I'll practice this demo and have a backup plan!)
+I'll discuss what considerations I took to design a sonification scheme that preserved information and sounded nice, while staying honest to the medium and material.
 
-At the end of the talk, I want to take two minutes to point out the value of useless ideas like this, that give
+We'll do a fun demo, where I click around different programs on my desktop and we hear what sounds they make :)
 
-Humans have many senses and emotions that don't traditionally fit inside our model of computing, and that impoverishes our relationship to computers.
+Finally, I want to end on a broader idea:
+Our senses are powerful tools for communication and cognition.
+
+"Strange translations" of an invisible system into a perceptible one allow us to relate to computers in enriching ways.
+
+Humans have many senses and emotions that don't get represented in our goal-oriented computing tools and that impoverishes our relationship to computers.
 
 # Intended Audience
 
-I have two main ideas I want to cover with the audience.
+I this talk to provide new perspectives on the audience's existing relationship with computers. I won't expect people to already love systems programming or operating system theory!
 
-The first is an understanding of what a syscall is, but contextualized to everyday computing tasks. I won't expect people to know about systems programming or operating system theory.
+When they leave they should have:
 
-The second idea is an appreciation for the computer as a system that can be observed and understood from multiple perspectives. This should be interested to anyone interested in perception, cognition, and humans' relationships towards their tools and towards their senses!
+An understanding of what a "syscall" is, contextualized to everyday computing tasks at human time scales.
 
-I think the "strange translation" of an invisible system into an audible one allows us to relate to computers in new and enriching ways.
-
-Cognition connected to perception, can't be separated.
-
-///
-Car Talk, Looms, fan noises, ENIAC, AM radio
-computer history museum
-oscilloscope
-contact mics
-sensory perception
+An appreciation for the computer as a system that can be observed from multiple levels. This should be interested to anyone interested in perception, cognition, and humans' relationships towards their tools and towards their senses!
