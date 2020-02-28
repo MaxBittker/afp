@@ -1,6 +1,6 @@
 # Talk Title
 
-What Sound Does An Operating System Make?! Let's Sonify System Calls!
+What Sound Does An Operating System Make? Let's Sonify System Calls!
 
 # Abstract for your talk
 
@@ -8,7 +8,7 @@ Computers are too quiet, you can't tell what they're thinking!
 
 Lets construct a digital stethoscope to amplify the inner workings of our computer, and see what we can hear!
 
-I'll talk to you about system calls, "sonification", and enriching our understanding of the world through our senses.
+I'll talk to you about system calls, sonification, and enriching our understanding of the world through our senses.
 
 # Timeline for your talk
 
