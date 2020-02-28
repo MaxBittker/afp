@@ -12,7 +12,7 @@ I'll talk to you about system calls, sonification, and enriching our understandi
 
 # Timeline for your talk
 
-## Introduction, 2.5 minutes:
+### Introduction, 2.5 minutes:
 
 I want to open by talking about NPR show "Car Talk", where car problems are diagnosed over the phone via people making silly sounds with their mouth.
 
@@ -22,13 +22,13 @@ I will pose some questions about the multi-sensory relationships humans have wit
 
 "How can we listen to our computers today, and what do they sound like?"
 
-## OS Concepts, 3 minutes:
+### OS Concepts, 3 minutes:
 
 To answer this question, I'll introduce a rough model of the structure of an operating system, and identify system calls as a "moving part" of that machinery that we should listen to!
 
 I'll show the tool `strace` and how it can print system call events in real time. I'll demonstrate that those events react to normal computer tasks like copying a jpg.
 
-## Design process & demo, 3 minutes:
+### Design process & demo, 3 minutes:
 
 Now that we have this raw stream of information, what should it actually sound like? Beeps? Saxophone solos? A screeching dial-up modem?
 
@@ -36,7 +36,7 @@ I'll discuss what considerations I took to design a sonification scheme that pre
 
 We'll do a fun demo, where I click around different programs on my desktop and we hear what sounds they make :)
 
-## Conclusion: 1.5 minutes:
+### Conclusion: 1.5 minutes:
 
 I want to end on a broader idea:
 Our senses are powerful tools for communication and cognition.
